@@ -96,6 +96,7 @@ def upload_logs(path,url):
             #########
             fields=[]
             filesize = '%d'%os.path.getsize(filename)
+            print filesize
             fields.append(('filesize',filesize))
             
             #########
