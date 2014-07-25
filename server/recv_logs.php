@@ -3,6 +3,7 @@ $upload_file_path = '/home/tkp/multiupload/uploadfiles/';
 
 require_once "./log4php/php/Logger.php";
 $logging = Logger::getLogger('recv_logs-0.01');
+
 Logger::configure('./log.xml');
 
 

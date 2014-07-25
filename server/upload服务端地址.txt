@@ -1,0 +1,2 @@
+http://console.perseusbox.com/pbwupload/recv_logs.php
+http://42.62.78.248/mul/server/recv_logs.php
